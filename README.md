@@ -1,4 +1,4 @@
-#Analyzes of Hacked Netherlands Websites (2019)
+# Analyzes of Hacked Netherlands Websites (2019)
 
 In this study, we want to analyze the hacked (attacked by various methods) Netherlands Websites (extension of .nl) in 2019. For the study, we get the data (scrape) from zone-h.org, which is an open-source database formed by attackers themselves. Because of the captcha warn, we use the cookies of our own browser which we used to access before.
 
