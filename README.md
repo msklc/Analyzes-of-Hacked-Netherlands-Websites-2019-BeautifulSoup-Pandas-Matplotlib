@@ -7,7 +7,7 @@ We analyze the data 4 different aspect and reach the below results;
 - 88 (.nl) websites are attacked (hacked) in the first 7 months of 2019.
 - Websites are attacked by 49 different attackers
 - Websites are attacked every month and increasing monthly
-- 23 websites (26% of total) are also attacked before
+- __23 websites (26% of total) are also attacked before__
 - Websites exits 8 different country and nearly 15% them are located outside of Netherlands
 
 We use;
