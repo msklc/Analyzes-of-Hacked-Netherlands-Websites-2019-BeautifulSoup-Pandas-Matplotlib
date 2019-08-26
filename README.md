@@ -14,3 +14,6 @@ We use;
 - BeautifulSoup
 - Pandas
 - Matplotlib
+
+If the .ipynb couldnt see, please try:
+https://nbviewer.jupyter.org/github/msklc/Analyzes-of-Hacked-Netherlands-Websites-2019-BeautifulSoup-Pandas-Matplotlib/blob/master/Hacked_NL_WebSites_2019.ipynb
