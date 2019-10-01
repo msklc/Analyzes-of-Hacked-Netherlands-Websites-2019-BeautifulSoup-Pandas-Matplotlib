@@ -5,10 +5,10 @@ In this study, we want to analyze the hacked (attacked by various methods) Nethe
 We analyze the data 4 different aspect and reach the below results;
 
 - 1558 (.nl) websites are attacked (hacked) in the first 3Q of 2019.
-- Websites are attacked by 199 different attackers
-- Websites are attacked every month nearly same average, except March
-- __356 websites (23% of total) are also attacked before__
-- Websites exits 16 different country and 20% them are located outside of Netherlands
+- Websites are attacked by 199 different attackers.
+- Websites are attacked nearly the same average in every month, except March.
+- __356 websites (23% of total) are also attacked before.__
+- Websites exist 16 different country and 20% them are located outside of Netherlands.
 
 ### Used Libraries;
 - BeautifulSoup
