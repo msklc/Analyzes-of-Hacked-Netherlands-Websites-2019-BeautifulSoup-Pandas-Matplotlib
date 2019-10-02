@@ -16,4 +16,5 @@ We analyze the data 4 different aspect and reach the below results;
 - Matplotlib
 
 If the .ipynb couldnt see, please try:
+
 https://nbviewer.jupyter.org/github/msklc/Analyzes-of-Hacked-Netherlands-Websites-2019-BeautifulSoup-Pandas-Matplotlib/blob/master/Hacked_NL_WebSites_3Q_2019.ipynb
