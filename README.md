@@ -10,6 +10,20 @@ We analyze the data 4 different aspect and reach the below results;
 - __356 websites (23% of total) are also attacked before.__
 - Websites exist 16 different country and 20% them are located outside of Netherlands.
 
+## Why 199 hackers preferred to attack .NL websites?
+The second part of the study; we tried to find answers;
+- Who are these 199 attackers?
+- Why they preferred the .NL websites for hacking?
+- What is their motivation?
+
+So, we scraped the 199 attackers' both total attacks numbers and only .NL attacks numbers from zone-h.org. Then, we calculated the ratios of these two numbers for every hacker. 
+As a conclusion;
+- The %95 of the hackers attacked to .NL web sites randomly and I think there isn't any special reason. But it is also possible could be done for masking the real attacks. So every attack should be investigated in detailly.
+- We don't have enough data for 10 hackers (especially 3 hackers) to make an evaluation. But with the index messages gave us a clue that there isn't any special reason (espionage, political, social, economic, religion..etc) for attacking the .NL web sites.
+- In summary, the targets are selected by the automatic scan tools, which detect vulnerabilities of servers (IP ranges). So, the motivation of hackers can be just fun, proving oneself, announcing something.
+
+Detail of the second part: https://www.linkedin.com/pulse/why-199-hackers-preferred-attack-nl-websites-mehmet-serkan-kılıç/
+
 ### Used Libraries;
 - BeautifulSoup
 - Pandas
